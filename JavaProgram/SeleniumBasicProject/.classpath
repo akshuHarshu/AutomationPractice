@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/async-http-client-2.12.3.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/async-http-client-netty-utils-2.12.3.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/auto-service-annotations-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/byte-buddy-1.14.5.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/checker-qual-3.33.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/error_prone_annotations-2.18.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/failsafe-3.3.2.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/guava-32.1.2-jre.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/j2objc-annotations-2.8.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/jakarta.activation-1.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/netty-buffer-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/netty-codec-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/netty-codec-http-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/netty-codec-socks-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/netty-common-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/netty-handler-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/netty-handler-proxy-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/netty-reactive-streams-2.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/netty-resolver-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/netty-transport-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/netty-transport-classes-epoll-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/netty-transport-classes-kqueue-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/netty-transport-native-epoll-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/netty-transport-native-kqueue-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/netty-transport-native-unix-common-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/opentelemetry-api-1.28.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/opentelemetry-api-events-1.28.0-alpha.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/opentelemetry-context-1.28.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/opentelemetry-exporter-logging-1.28.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/opentelemetry-extension-incubator-1.28.0-alpha.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/opentelemetry-sdk-1.28.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/opentelemetry-sdk-common-1.28.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/opentelemetry-sdk-extension-autoconfigure-1.28.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/opentelemetry-sdk-extension-autoconfigure-spi-1.28.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/opentelemetry-sdk-logs-1.28.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/opentelemetry-sdk-metrics-1.28.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/opentelemetry-sdk-trace-1.28.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/opentelemetry-semconv-1.28.0-alpha.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/reactive-streams-1.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/selenium-api-4.12.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/selenium-api-4.12.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/selenium-chrome-driver-4.12.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/selenium-chrome-driver-4.12.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/selenium-chromium-driver-4.12.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/selenium-chromium-driver-4.12.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/selenium-devtools-v85-4.12.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/selenium-devtools-v85-4.12.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/selenium-devtools-v114-4.12.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/selenium-devtools-v114-4.12.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/selenium-devtools-v115-4.12.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/selenium-devtools-v115-4.12.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/selenium-devtools-v116-4.12.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/selenium-devtools-v116-4.12.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/selenium-edge-driver-4.12.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/selenium-edge-driver-4.12.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/selenium-firefox-driver-4.12.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/selenium-firefox-driver-4.12.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/selenium-http-4.12.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/selenium-http-4.12.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/selenium-ie-driver-4.12.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/selenium-ie-driver-4.12.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/selenium-java-4.12.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/selenium-java-4.12.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/selenium-json-4.12.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/selenium-json-4.12.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/selenium-manager-4.12.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/selenium-manager-4.12.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/selenium-os-4.12.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/selenium-os-4.12.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/selenium-remote-driver-4.12.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/selenium-remote-driver-4.12.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/selenium-safari-driver-4.12.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/selenium-safari-driver-4.12.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/selenium-support-4.12.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/selenium-support-4.12.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Software Testing Class/Workplace/SeleniumBasicProject/jars/slf4j-api-2.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AKSHAY/.m2/repository/org/seleniumhq/selenium/selenium-api/4.13.0/selenium-api-4.13.0.jar" sourcepath="C:/Users/AKSHAY/.m2/repository/org/seleniumhq/selenium/selenium-api/4.13.0/selenium-api-4.13.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
+			<attribute name="maven.artifactId" value="selenium-api"/>
+			<attribute name="maven.version" value="4.13.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/AKSHAY/.m2/repository/org/seleniumhq/selenium/selenium-support/4.13.0/selenium-support-4.13.0.jar" sourcepath="C:/Users/AKSHAY/.m2/repository/org/seleniumhq/selenium/selenium-support/4.13.0/selenium-support-4.13.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
+			<attribute name="maven.artifactId" value="selenium-support"/>
+			<attribute name="maven.version" value="4.13.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/AKSHAY/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.13.0/selenium-chrome-driver-4.13.0.jar" sourcepath="C:/Users/AKSHAY/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.13.0/selenium-chrome-driver-4.13.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
+			<attribute name="maven.artifactId" value="selenium-chrome-driver"/>
+			<attribute name="maven.version" value="4.13.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
